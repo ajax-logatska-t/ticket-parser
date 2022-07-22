@@ -1,0 +1,5 @@
+Ticket:
+Name: Katy
+Movie: Inception
+Hall: Hall 2
+Time: 11-07-2022 14:00
